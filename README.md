@@ -8,7 +8,7 @@ My research background has strengthened my analytical thinking, problem-solving 
 
 I am particularly interested in applying data analytics to healthcare, biomedical research and real-world decision-making.
 
-🛠 Technical Skills
+## 🛠 Technical Skills
 
 Programming & Data Analysis: Python, SQL, pandas, NumPy, SciPy
 
@@ -20,9 +20,9 @@ Research & Statistics: Data cleaning, exploratory data analysis, statistical mod
 
 Tools: Jupyter Notebook, GitHub, BigQuery, SPSS, GraphPad Prism
 
-📊 Featured Projects
+## 📊 Featured Projects
 
-NHANES BMI Prediction
+### NHANES BMI Prediction
 
 Developed and evaluated regression models to predict body mass index using US national health survey data.
 
@@ -36,19 +36,19 @@ Investigated the contribution of waist circumference to model performance
 
 View Project
 
-NHANES Obesity Classification
+### NHANES Obesity Classification
 
 Applied classification techniques to explore obesity-related patterns in health survey data.
 
 View Project
 
-🔬 Research Background
+## 🔬 Research Background
 
 My scientific experience includes recombinant protein expression and purification, enzyme kinetics, antimicrobial research, molecular biology and hepatitis B virus research.
 
 I am interested in opportunities that combine scientific research, quantitative analysis and computational methods.
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 Location: Christchurch, New Zealand
 
